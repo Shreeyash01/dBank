@@ -2,6 +2,10 @@
 
 A DeFi ( Decentralized Finance ) DApp project based on Internet Computer Blockchain.
 
+Deployed on Live **ICP Blockchain** - 
+https://oyzaa-paaaa-aaaam-aa3va-cai.ic0.app/
+
+
 If you want to start working on your project right away, you might want to try the following commands:
 
 ```bash
